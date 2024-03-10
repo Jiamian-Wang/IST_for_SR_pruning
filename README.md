@@ -103,7 +103,7 @@ The training configurations are in `options/train/*.yml`. Specifically,
 * Specify the training and testing data directories in the yml files accordingly.
 * A detailed yml configuration [instruction](https://github.com/XPixelGroup/BasicSR/blob/master/docs/Config.md#training-configuration)
 
-### Hilights
+### Highlights
 
 1. Configurations
 
